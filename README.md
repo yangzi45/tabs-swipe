@@ -1,4 +1,4 @@
-# tabs-swipe
+# vant-date-picker
 
 > A Vue.js project
 

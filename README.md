@@ -1,4 +1,4 @@
-# tabs-swiper
+# tabs-swipe
 
 > A Vue.js project
 
